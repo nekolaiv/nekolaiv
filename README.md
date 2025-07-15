@@ -55,8 +55,7 @@
 ---
 
 <!-- GitHub Stats Column -->
-<!-- GitHub Stats with animated background -->
-<div align="center" style="position: relative; padding: 40px; border-radius: 10px; background-color: rgba(13, 17, 23, 0.9);">
+<div align="center">
   <div style="position: relative; z-index: 1; display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nekolaiv&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=nekolaiv&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
