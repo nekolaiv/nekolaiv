@@ -59,7 +59,7 @@
   <div style="position: relative; z-index: 1; display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nekolaiv&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=nekolaiv&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=nekolaiv&theme=dark" alt="GitHub Streak" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=nekolaiv&theme=dark" alt="GitHub Streak" /> -->
   </div>
 </div>
 
