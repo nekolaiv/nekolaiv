@@ -33,10 +33,28 @@
 ---
 <h3 align="center">LANGUAGES AND TOOLS</h3>
 
-<table align="center" width="100%">
-<tr>
-  <!-- Left Column -->
-  <td width="50%" valign="top">
+<div align="center">
+  <h4 align="center">LLM Tools Used</h4>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40"/><br><b>ChatGPT (GPT-5)</b>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="70" height="70"/><br><b>Gemini</b>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Grok-feb-2025-logo.svg" width="80" height="80"/><br><b>Grok</b>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" width="80" height="80"/><br><b>Claude</b>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg" width="80" height="80"/><br><b>DeepSeek</b>
+    </td>
+  </tr>
+</table>
+  <div style="display: flex;">
     <!-- Frameworks -->
     <h4 align="center">Frameworks & Libraries</h4>
     <table align="center">
@@ -49,7 +67,6 @@
       <tr>
         <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br>React</td>
         <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br>Tailwind</td>
-        <td colspan="2"></td>
       </tr>
     </table>
     <!-- Frontend -->
@@ -58,7 +75,7 @@
       <tr>
         <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br>HTML5</td>
         <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br>CSS3</td>
-        <td colspan="2"></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript</td>
       </tr>
     </table>
     <!-- Databases -->
@@ -68,15 +85,13 @@
         <td align="center"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/><br>MariaDB</td>
         <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br>MySQL</td>
         <td align="center"><img src="https://www.phpmyadmin.net/static/images/logo.png" width="40" height="40"/><br>phpMyAdmin</td>
-        <td></td>
       </tr>
     </table>
-  </td>
-
-  <!-- Right Column -->
-  <td width="50%" valign="top">
+  </div>
+  <div>
+    <!-- Right Column -->
     <!-- Languages -->
-    <h4 align="center">Programming Languages</h4>
+    <h4 align="center">Programming & Scripting Languages</h4>
     <table align="center">
       <tr>
         <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br>Python</td>
@@ -87,7 +102,6 @@
       <tr>
         <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>C++</td>
         <td align="center"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/><br>Dart</td>
-        <td colspan="2"></td>
       </tr>
     </table>
     <!-- Data Science -->
@@ -106,14 +120,11 @@
       <tr>
         <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/><br>Figma</td>
         <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/><br>Firebase</td>
-        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux</td>
-        <td></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux</td
       </tr>
     </table>
-  </td>
-</tr>
-</table>
-
+  </div>
+</div>
 
 
 
